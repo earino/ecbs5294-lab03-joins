@@ -1,7 +1,7 @@
 [project]
 name = "ecbs5294-lab03-joins"
 version = "0.1.0"
-description = "ECBS5294 lab 3: The revenue that grew when we joined"
+description = "ECBS5294 lab 3: The category table that came out short"
 requires-python = ">=3.10"
 dependencies = [
     "duckdb==1.5.5",
